@@ -1,6 +1,6 @@
 # 🏛️ Parallax Website
 
-A responsive architecture-themed website that uses **parallax scrolling effects** to create a modern and immersive web experience. Built using **pure HTML and CSS**. Check out my [Paralex website](https://github.com/Sarthaknarula/Parallex-Website/blob/main/%E2%80%8EProject1_Presentation_Sarthak_Narula.html)!
+A responsive architecture-themed website that uses **parallax scrolling effects** to create a modern and immersive web experience. Built using **pure HTML and CSS**.
 
 ---
 
